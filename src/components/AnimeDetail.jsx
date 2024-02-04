@@ -35,7 +35,7 @@ const AnimeDetail = () => {
         setSelectedCategory={''}/>
         <Typography className='copyright'
         variant="body2" sx={{mt:1.5, color:'#fff'}}>
-          Copyright 2022 Harshpreet
+          Copyright 2024 Harshpreet
         </Typography>
         </Box>
       <Box p={1}  display='flex' width='90%' flexDirection='column' paddingLeft='3%' sx={{overflowY:'auto', 
